@@ -3,7 +3,7 @@ This is a Note for Coursera course: [Big Data Essentials - HDFS, MapReduce and S
 
 
 # Outline
-latest update: 2020.12.07
+latest update: 2020.12.21
 | Week | Status | Content |
 |------|--------|---------|
 | Week1 | :heavy_check_mark: Completed | - Unix Command Line Interface (CLI) <br> - Distributed File Systems (DFS), HDFS (Hadoop DFS) Architecture and Scalability Problems <br> - Tuning Distributed Storage Platform with File Types | 
